@@ -12,10 +12,6 @@ div {
   display: none;
 }
 
-.divBlock {
-  display: block;
-}
-
 .divOSC {
   background:url(../img/osc-tokyo.png);
 }
