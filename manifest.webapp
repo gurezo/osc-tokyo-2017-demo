@@ -1,0 +1,13 @@
+{
+  "name": "osc-tokyo-2017-demo",
+  "description": "Open Source Confference Toyko 2017 Spring",
+  "type": "certified",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "lifewood",
+    "url": "https://github.com/gurezo"
+  },
+  "icons": {
+    "128": "/icon/OSC-DEMO.png"
+  }
+}

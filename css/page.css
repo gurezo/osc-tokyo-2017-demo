@@ -1,0 +1,25 @@
+iframe {
+  width: 1920px;
+  height: 1080px;
+}
+
+div {
+  width: 1920px;
+  height: 1080px;
+}
+
+.divNone {
+  display: none;
+}
+
+.divBlock {
+  display: block;
+}
+
+.divOSC {
+  background:url(../img/osc-tokyo.png);
+}
+
+.divAshiras {
+  background:url(../img/Ashiras.png);
+}
