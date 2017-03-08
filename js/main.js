@@ -5,7 +5,6 @@ window.addEventListener('load', function (){
 var $srcOSC = $('#srcOSC');
 var $srcAshiras = $('#srcAshiras');
 var DIV_NONE = 'divNone';
-var DIB_BLOCK = 'divBlock';
 
 // WebGPIO LED Blink
   navigator.requestGPIOAccess()
